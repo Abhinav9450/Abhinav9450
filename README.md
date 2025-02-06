@@ -8,9 +8,13 @@
 - 👯 I’m looking to collaborate on **open-source projects**.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/)  
 
-## 🛠️ Technologies & Tools  
-<p align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>  
-</p>
+### Hi there 👋, I'm Abhinav Kumar
+
+* 👂 **Name:** Abhinav Kumar
+* 👩 **Pronouns:** He/Him
+* 🔭 **Currently working on:** Full-stack development
+* 🌱 **Learning:** JS, PHP, HTML, CSS
+* 🤝 **Looking to collaborate on:** Web development projects
+* 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/abhinavkumar)
+* ❤️ **Love:** Solving problems, tech
+* ⚡ **Fun fact:** Enjoys strategy games and tech documentaries
